@@ -11,7 +11,7 @@ Le script à une période de raffraichissement de 5 secondes.
     - Le script chechDisks.sh enregistre le status de chaque disque dans un fichier disk[numéroDisque].txt en appelant diskStatus.sh X fois
     - Le script stats.py vient lire les fichiers .txt pour changer la couleur de l'icone des disques en fonction du status
     
-  - Il récupère des information système affin de les afficher :
+  - Il récupère des informations système afin de les afficher :
     - L'adresse IP
     - Le pourcentage d'utilisation et la température (°C) du CPU
     - Le pourcentage de stockage utilisé sur le RAID
